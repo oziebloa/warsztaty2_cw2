@@ -1,0 +1,3 @@
+fastapi
+uvicorn
+pymongo==3.12.3
